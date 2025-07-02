@@ -1,0 +1,1 @@
+printf("%d %s %f\n",ptr->roll_no,ptr->name,ptr->mark);
